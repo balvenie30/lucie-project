@@ -626,9 +626,6 @@ mark.highlight {
 }
 
 .card-link:hover .term-title,
-/* .card-link:focus .term-title {
-  text-decoration: underline;
-} */
 
 .card-title-row {
   display: flex;
@@ -651,6 +648,7 @@ mark.highlight {
   flex-shrink: 0;
   color: #1196007d;
 } */
+
 .hero-icon[hero-icon="marketing"] svg {
   flex-shrink: 0;
   color: #b76aff;
