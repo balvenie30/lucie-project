@@ -46,6 +46,6 @@ glossar-projekt/
 - Safari: vollständig
 - Internet Explorer: eingeschränkt (moderne Browser empfohlen)
 
-To run the server, run:
-`python3 -m http.server 5500 --bind 127.0.0.1`
-`open http://127.0.0.1:5500/docs/index.html`
+To run the server locally, run:
+`python3 -m http.server 8000 --bind 127.0.0.1`
+`open http://127.0.0.1:8000/index.html`
