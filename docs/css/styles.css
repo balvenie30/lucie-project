@@ -57,7 +57,7 @@ body {
 .site-header {
   background:
     linear-gradient(180deg, rgba(17,24,39,0.45), rgba(17,24,39,0.35)),
-    url('/docs/assets/images/header_image.jpeg') center/cover no-repeat;
+    url('/assets/images/header_image.jpeg') center/cover no-repeat;
   border-bottom: 1px solid var(--border);
   position: sticky; top: 0; z-index: 50;
   color: #fff;
